@@ -1,0 +1,51 @@
+Token Atributo
+ADD   +
+SUB   -
+MULT   *
+MULTI_MULTI   **
+DIV   /  
+ADD_ADD   ++
+MINUS_MINUS   --
+EQUAL   ==
+NOT_EQUAL   !=
+GREATER   >
+PON   .
+GREATER_EQUALS   >=
+LESS   <
+LESS_EQUAL   <=
+ADD_EQUAL +=
+MINUS_EQUAL -=
+MULTI_EQUAL *=
+BARRA_EQUAL /=
+
+AND   &&
+OR   ||
+OP1 |
+ATTR    =
+BANG    !
+PON_VIR ;
+COMMA   ,
+L_PAR   (
+R_PAR   )
+L_KEY   {
+R_KEY   }
+L_COL   [
+R_COL   ]
+PERCENT %
+LITERAL " "
+
+INT     int
+STRING  string
+IF  if
+ELSE    else
+NUM     enum
+CONST   const
+SWITCH  switch
+CASE    case
+BREAK   break
+DEFAULT     default
+TEMPLATE    template
+STATIC  static
+RETURN  return
+ID -- variáveis, nomes de funções
+
