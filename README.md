@@ -34,4 +34,6 @@ Scripts feito com Python
 - INT VAR EQ NUM SEMICOLON
 - INT VAR EQ NUM ADD VAR SEMICOLON
 - STRING VAR EQ CONST SEMICOLON
+### Screenshots
+![alt tag](https://raw.githubusercontent.com/crislanio/Analisador-L-xico/master/Screenshot%20at%202017-05-18%2023:12:38.png)
 
